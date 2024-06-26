@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactiveCV/static/css/main.b4c3be14.chunk.css",
-    "main.js": "/ReactiveCV/static/js/main.5ffc651f.chunk.js",
-    "main.js.map": "/ReactiveCV/static/js/main.5ffc651f.chunk.js.map",
+    "main.js": "/ReactiveCV/static/js/main.897b2637.chunk.js",
+    "main.js.map": "/ReactiveCV/static/js/main.897b2637.chunk.js.map",
     "runtime-main.js": "/ReactiveCV/static/js/runtime-main.9f6a993a.js",
     "runtime-main.js.map": "/ReactiveCV/static/js/runtime-main.9f6a993a.js.map",
     "static/js/2.ff41b177.chunk.js": "/ReactiveCV/static/js/2.ff41b177.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9f6a993a.js",
     "static/js/2.ff41b177.chunk.js",
     "static/css/main.b4c3be14.chunk.css",
-    "static/js/main.5ffc651f.chunk.js"
+    "static/js/main.897b2637.chunk.js"
   ]
 }
