@@ -1,0 +1,2 @@
+(this.webpackJsonpcleanfolio=this.webpackJsonpcleanfolio||[]).push([[3],{158:function(a,i,c){"use strict";c.r(i),i.default=c.p+"static/media/CV_David_Sharma_EN.b213aec9.pdf"}}]);
+//# sourceMappingURL=3.04ecb727.chunk.js.map
